@@ -10,7 +10,7 @@ For the purposes of this workshop, you'll need to sign-up to following platforms
 
 ## To get started:
 
-[Click this to open the workshop in Binder](https://mybinder.org/v2/gh/dolbyio-samples/workshop-media-apis-getting-started/feb2022)
+[Click this to open the workshop in Binder](https://mybinder.org/v2/gh/dolbyio-samples/workshop-media-apis-getting-started/HEAD)
 
 This may take a few seconds. Start by opening `Workshop_Part_1.ipynb` once it has launched:
 
